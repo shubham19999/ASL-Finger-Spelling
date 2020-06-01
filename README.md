@@ -19,7 +19,7 @@ exceptions being ’j’ and ’z’. In order to avoid excessive complexity, th
 itself to the reduced 24-letter alphabet excluding ’j’ and ’z’.  
  
  
- 
+ ![](Images_ASL/intro.JPG)
  
 Fig.1, ASL fingerspelling Symbols 
  
