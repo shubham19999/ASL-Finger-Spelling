@@ -40,6 +40,6 @@ algorithms .
  
  Dataset:
  
-  ![](Images_ASL/Dataset.JPG)
+  ![](Images_ASL/dataset.JPG)
   
 
