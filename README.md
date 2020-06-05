@@ -43,3 +43,6 @@ algorithms .
   ![](Images_ASL/dataset.JPG)
   
 
+  Result:
+  
+   ![](Images_ASL/result.JPG)
