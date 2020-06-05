@@ -38,4 +38,8 @@ detector and validate its effectivenessontechniquelikeSVMorNaiveBayesascomparedt
 deep learning methods. Furthermore, the goal of this project is the comparison between these      
 algorithms . 
  
+ Dataset:
  
+  ![](Images_ASL/Dataset.JPG)
+  
+
